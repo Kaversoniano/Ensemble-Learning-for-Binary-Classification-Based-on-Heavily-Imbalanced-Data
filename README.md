@@ -1,4 +1,4 @@
-* Paper for Chinese Statistical Modeling Competition in 2017
+* Project for Chinese Statistical Modeling Competition in 2017
 * A data-mining system of methods for binary classification based on imbalanced data – research on bank telemarketing campaign
 1. Data Pre-Processing: handling missing values, one-hot encoding, training set, cross-validation set, test set
 2. Feature Selection: RFE, Boruta, XGBoost

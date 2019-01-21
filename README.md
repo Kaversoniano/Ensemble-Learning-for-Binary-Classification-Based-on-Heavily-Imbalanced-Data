@@ -8,4 +8,4 @@
   5. Classifier: `KNN, LDA, Naive Bayes, Logistic Regression, ID3 Decision Tree, C50 Decision Tree, Random Forest, Neural Network,
      MLP, SVM, multi-SVM, LightGBM`
   6. Ensemble Learning: `XGBoost-Stacking`
-  7. Numeric Evaluation: `Precision = 0.49, Recall = 0.86, F-Score = 0.70`
+  7. Numeric Evaluation: `Accuracy = 0.88, Precision = 0.49, Recall = 0.86, F-Score = 0.70`

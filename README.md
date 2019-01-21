@@ -1,4 +1,4 @@
-* **Background:** Chinese Statistical Modeling Competition in 2017
+* **Background:** Project for Chinese Statistical Modeling Competition in 2017
 * **Theme:** A data-mining system of methods for binary classification based on imbalanced data – research on bank telemarketing campaign
 * **Dataset:** http://archive.ics.uci.edu/ml/datasets/Bank+Marketing
 * **Overview:**
